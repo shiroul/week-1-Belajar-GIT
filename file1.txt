@@ -1,2 +1,3 @@
 banana nuget
 another banana nuget
+featureB
