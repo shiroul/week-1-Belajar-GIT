@@ -1,3 +1,7 @@
 banana nuget
 another banana nuget
+<<<<<<< HEAD
 featureB
+=======
+featureA
+>>>>>>> featureA
